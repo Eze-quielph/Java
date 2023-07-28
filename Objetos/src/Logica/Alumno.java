@@ -19,6 +19,31 @@ public class Alumno {
         this.last_name = last_name;
     }
 
+    //Getters Setters
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getLast_name() {
+        return last_name;
+    }
+
+    public void setLast_name(String last_name) {
+        this.last_name = last_name;
+    }
+
     //Methods
     public void getName(String name){
         System.out.println("Soy el alumno: "+name);
