@@ -14,7 +14,8 @@ public class ArrayList {
             System.out.println("Prueba: " + list.get(i).getName());
         }
 
-        
+        //Delete of position
+        list.remove(1);
 
         //Recorrer por indice usando ForEach
         for(Persona perso:list){

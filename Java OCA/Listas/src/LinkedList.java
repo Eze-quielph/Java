@@ -13,12 +13,25 @@ public class LinkedList {
         //Add first
         list.add(0, new Persona(6, "Prueba", 98));
 
-
+        //Remove on for
+        String eze = "eze";
+        for(Persona list : eze){
+            if(list.getName().equals(eze)){
+                list.remove(eze);
+                break;
+            }
+        }
+        //El largo de la lista
+       System.out.println( list.size());
 
         //Recorrer por indice usando ForEach
         for(Persona perso:list){
             System.out.println("Prueba: "+ perso.getName());
         }
+        //Prefunta si esta vacio
+        if(true){ System.out.println(list.isEmpety()); }
 
+        //Borro lista
+        list.clear();
     }
 }
