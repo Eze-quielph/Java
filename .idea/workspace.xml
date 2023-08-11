@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f44f2be-8054-42dc-930e-ac30bfcf19d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integrate_01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Integrate_01/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java OCA/Java Building Blocks/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java OCA/Java Building Blocks/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java OCA/Listas/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java OCA/Listas/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java OCA/Listas/src/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java OCA/Listas/src/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java OCA/Listas/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java OCA/Listas/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Integrador_03/src/Arbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Integrador_03/src/Planta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Ezequ/Desktop/Java/Class Relationship"
+    "last_opened_file_path": "C:/Users/Ezequ/Desktop/Java/Integrador_03"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
